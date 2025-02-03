@@ -98,10 +98,3 @@ Humidity: 72.0%
 
 Feel free to modify and improve this project for your own purposes. Contributions are welcome!
 ```
-
-### How to Customize:
-- Replace the link to the repository with the correct one if necessary.
-- Adjust the license section if your project uses a different license.
-- If you want to add more detailed sections, feel free to elaborate on specific functionality, installation steps, or usage tips.
-
-Let me know if you'd like any more adjustments!
